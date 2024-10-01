@@ -1,2 +1,4 @@
 # CSCI4502
 Crime and weather semester project
+
+This is our final project for Fall 2022. It looks at the correlation between weather and crime. This is achieved through classifying crimes and corresponding those crimes to the temperature on that day. The days we included for weather were hot, mild, and cold days. For crimes the categories were classified as: crimes against property, crimes against people, and crimes against society. We looked at four different cities: Settle, Denver, Boston and finally LA. We made notebooks for each city. We all had a data set for crime and a data set for the weather. We combined these two sets on a common “Date” column. From here we were able to represent our data in several ways as well as find the Bayesian probabilities for crime vs weather. We found that weather does have an impact on crime throughout the year. We have also included our scrap sheet, “DataCleanUpTracker.pdf”, where we expressed ideas and took notes.
